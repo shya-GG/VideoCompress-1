@@ -9,8 +9,8 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
+  "success_url": "https://t.me/TechShya",
+  "website": "https://t.me/TechShya",
   "repository": "https://github.com/AbirHasan2005/VideoCompress",
   "env": {
     "ENV": {
@@ -39,7 +39,7 @@
     },
     "AUTH_USERS": {
       "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
-      "value": "715779594",
+      "value": "1647795487",
       "required": false
     },
     "BOT_USERNAME": {
